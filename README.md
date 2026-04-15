@@ -1,6 +1,6 @@
 # Winifred's Data Analytics Portfolio
 
-Hi! I'm an aspiring data analyst with a Google Data Analytics Certificate.
+Hi! I'm a certified data analyst with a Google Data Analytics Certificate.
 This portfolio showcases my projects in Excel, SQL, and Python.
 
 ## Projects
